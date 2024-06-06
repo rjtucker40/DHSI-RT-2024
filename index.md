@@ -7,12 +7,13 @@ Welcome to my portfolio. Below you'll find a selection of some of my work.
 
 - [Project One](#)
   - [grids and gestures]
+  ![Grids and Gestures](GridsGestures.jpg)
 - [Project Two](#)
-  - [Twine]
+  - [Twine](Alice.html)
 - [Project Three](#)
-  - [Bitsy]
+  - [Bitsy](alice_is_building_her_collection.html)
 - [Project Four](#)
-  - [Taroko Gorge]]
+  - [Taroko Gorge](TarokoGorge.html)
 - [Project Five](#)
   - [PS5]]
 - [Project Six](#)
