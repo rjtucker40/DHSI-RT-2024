@@ -9,12 +9,11 @@ Welcome to my portfolio. Below you'll find a selection of some of my work.
   - [grids and gestures]
   ![Grids and Gestures](GridsGestures.jpg)
 - [Project Two](#)
-  - [Twine](Alice.html)
+  - [Twine: A Collector](Alice.html)
 - [Project Three](#)
-  - [Bitsy](alice_is_building_her_collection.html)
+  - [Bitsy : Alice Collects](alice_is_building_her_collection.html)
 - [Project Four](#)
-  - [Taroko Gorge](TarokoGorge.html)
+  - [Taroko Gorge Shakespeare Sonnet 138](TarokoGorge.html)
 - [Project Five](#)
-  - [PS5]]
-- [Project Six](#)
-  - [Tracery]]
+  - [hypertext](yarnnetworkplan.jpg)
+
