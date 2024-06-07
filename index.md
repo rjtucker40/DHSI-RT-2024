@@ -15,5 +15,5 @@ Welcome to my portfolio. Below you'll find a selection of some of my work.
 - [Project Four](#)
   - [Taroko Gorge Shakespeare Sonnet 138](TarokoGorge.html)
 - [Project Five](#)
-  - [hypertext](yarnnetworkplan.jpg)
+  - [hypertext]!(yarnnetworkplan.jpg)
 
